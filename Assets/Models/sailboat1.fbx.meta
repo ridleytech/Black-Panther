@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: de72bd0936cad4aaeb5e421e0dda2691
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: SailBoat Sailboat_MeshPart0
+    100002: SailBoat Sailboat_MeshPart1
+    100004: SailBoat Sailboat_MeshPart10
+    100006: SailBoat Sailboat_MeshPart11
+    100008: SailBoat Sailboat_MeshPart12
+    100010: SailBoat Sailboat_MeshPart13
+    100012: SailBoat Sailboat_MeshPart14
+    100014: SailBoat Sailboat_MeshPart15
+    100016: SailBoat Sailboat_MeshPart16
+    100018: SailBoat Sailboat_MeshPart17
+    100020: SailBoat Sailboat_MeshPart18
+    100022: SailBoat Sailboat_MeshPart19
+    100024: SailBoat Sailboat_MeshPart2
+    100026: SailBoat Sailboat_MeshPart20
+    100028: SailBoat Sailboat_MeshPart21
+    100030: SailBoat Sailboat_MeshPart22
+    100032: SailBoat Sailboat_MeshPart23
+    100034: SailBoat Sailboat_MeshPart24
+    100036: SailBoat Sailboat_MeshPart25
+    100038: SailBoat Sailboat_MeshPart26
+    100040: SailBoat Sailboat_MeshPart27
+    100042: SailBoat Sailboat_MeshPart3
+    100044: SailBoat Sailboat_MeshPart4
+    100046: SailBoat Sailboat_MeshPart5
+    100048: SailBoat Sailboat_MeshPart6
+    100050: SailBoat Sailboat_MeshPart7
+    100052: SailBoat Sailboat_MeshPart8
+    100054: SailBoat Sailboat_MeshPart9
+    100056: //RootNode
+    400000: SailBoat Sailboat_MeshPart0
+    400002: SailBoat Sailboat_MeshPart1
+    400004: SailBoat Sailboat_MeshPart10
+    400006: SailBoat Sailboat_MeshPart11
+    400008: SailBoat Sailboat_MeshPart12
+    400010: SailBoat Sailboat_MeshPart13
+    400012: SailBoat Sailboat_MeshPart14
+    400014: SailBoat Sailboat_MeshPart15
+    400016: SailBoat Sailboat_MeshPart16
+    400018: SailBoat Sailboat_MeshPart17
+    400020: SailBoat Sailboat_MeshPart18
+    400022: SailBoat Sailboat_MeshPart19
+    400024: SailBoat Sailboat_MeshPart2
+    400026: SailBoat Sailboat_MeshPart20
+    400028: SailBoat Sailboat_MeshPart21
+    400030: SailBoat Sailboat_MeshPart22
+    400032: SailBoat Sailboat_MeshPart23
+    400034: SailBoat Sailboat_MeshPart24
+    400036: SailBoat Sailboat_MeshPart25
+    400038: SailBoat Sailboat_MeshPart26
+    400040: SailBoat Sailboat_MeshPart27
+    400042: SailBoat Sailboat_MeshPart3
+    400044: SailBoat Sailboat_MeshPart4
+    400046: SailBoat Sailboat_MeshPart5
+    400048: SailBoat Sailboat_MeshPart6
+    400050: SailBoat Sailboat_MeshPart7
+    400052: SailBoat Sailboat_MeshPart8
+    400054: SailBoat Sailboat_MeshPart9
+    400056: //RootNode
+    2300000: SailBoat Sailboat_MeshPart0
+    2300002: SailBoat Sailboat_MeshPart1
+    2300004: SailBoat Sailboat_MeshPart10
+    2300006: SailBoat Sailboat_MeshPart11
+    2300008: SailBoat Sailboat_MeshPart12
+    2300010: SailBoat Sailboat_MeshPart13
+    2300012: SailBoat Sailboat_MeshPart14
+    2300014: SailBoat Sailboat_MeshPart15
+    2300016: SailBoat Sailboat_MeshPart16
+    2300018: SailBoat Sailboat_MeshPart17
+    2300020: SailBoat Sailboat_MeshPart18
+    2300022: SailBoat Sailboat_MeshPart19
+    2300024: SailBoat Sailboat_MeshPart2
+    2300026: SailBoat Sailboat_MeshPart20
+    2300028: SailBoat Sailboat_MeshPart21
+    2300030: SailBoat Sailboat_MeshPart22
+    2300032: SailBoat Sailboat_MeshPart23
+    2300034: SailBoat Sailboat_MeshPart24
+    2300036: SailBoat Sailboat_MeshPart25
+    2300038: SailBoat Sailboat_MeshPart26
+    2300040: SailBoat Sailboat_MeshPart27
+    2300042: SailBoat Sailboat_MeshPart3
+    2300044: SailBoat Sailboat_MeshPart4
+    2300046: SailBoat Sailboat_MeshPart5
+    2300048: SailBoat Sailboat_MeshPart6
+    2300050: SailBoat Sailboat_MeshPart7
+    2300052: SailBoat Sailboat_MeshPart8
+    2300054: SailBoat Sailboat_MeshPart9
+    3300000: SailBoat Sailboat_MeshPart0
+    3300002: SailBoat Sailboat_MeshPart1
+    3300004: SailBoat Sailboat_MeshPart10
+    3300006: SailBoat Sailboat_MeshPart11
+    3300008: SailBoat Sailboat_MeshPart12
+    3300010: SailBoat Sailboat_MeshPart13
+    3300012: SailBoat Sailboat_MeshPart14
+    3300014: SailBoat Sailboat_MeshPart15
+    3300016: SailBoat Sailboat_MeshPart16
+    3300018: SailBoat Sailboat_MeshPart17
+    3300020: SailBoat Sailboat_MeshPart18
+    3300022: SailBoat Sailboat_MeshPart19
+    3300024: SailBoat Sailboat_MeshPart2
+    3300026: SailBoat Sailboat_MeshPart20
+    3300028: SailBoat Sailboat_MeshPart21
+    3300030: SailBoat Sailboat_MeshPart22
+    3300032: SailBoat Sailboat_MeshPart23
+    3300034: SailBoat Sailboat_MeshPart24
+    3300036: SailBoat Sailboat_MeshPart25
+    3300038: SailBoat Sailboat_MeshPart26
+    3300040: SailBoat Sailboat_MeshPart27
+    3300042: SailBoat Sailboat_MeshPart3
+    3300044: SailBoat Sailboat_MeshPart4
+    3300046: SailBoat Sailboat_MeshPart5
+    3300048: SailBoat Sailboat_MeshPart6
+    3300050: SailBoat Sailboat_MeshPart7
+    3300052: SailBoat Sailboat_MeshPart8
+    3300054: SailBoat Sailboat_MeshPart9
+    4300000: SailBoat Sailboat_MeshPart0
+    4300002: SailBoat Sailboat_MeshPart1
+    4300004: SailBoat Sailboat_MeshPart2
+    4300006: SailBoat Sailboat_MeshPart3
+    4300008: SailBoat Sailboat_MeshPart4
+    4300010: SailBoat Sailboat_MeshPart5
+    4300012: SailBoat Sailboat_MeshPart6
+    4300014: SailBoat Sailboat_MeshPart7
+    4300016: SailBoat Sailboat_MeshPart8
+    4300018: SailBoat Sailboat_MeshPart9
+    4300020: SailBoat Sailboat_MeshPart10
+    4300022: SailBoat Sailboat_MeshPart11
+    4300024: SailBoat Sailboat_MeshPart12
+    4300026: SailBoat Sailboat_MeshPart13
+    4300028: SailBoat Sailboat_MeshPart14
+    4300030: SailBoat Sailboat_MeshPart15
+    4300032: SailBoat Sailboat_MeshPart16
+    4300034: SailBoat Sailboat_MeshPart17
+    4300036: SailBoat Sailboat_MeshPart18
+    4300038: SailBoat Sailboat_MeshPart19
+    4300040: SailBoat Sailboat_MeshPart20
+    4300042: SailBoat Sailboat_MeshPart21
+    4300044: SailBoat Sailboat_MeshPart22
+    4300046: SailBoat Sailboat_MeshPart23
+    4300048: SailBoat Sailboat_MeshPart24
+    4300050: SailBoat Sailboat_MeshPart25
+    4300052: SailBoat Sailboat_MeshPart26
+    4300054: SailBoat Sailboat_MeshPart27
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 33a32f294b0744049b527e502bb32822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_4
+    second: {fileID: 2100000, guid: 7733a2774bf074852bd57545f0b87676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curtain
+    second: {fileID: 2100000, guid: 5e8b4f6d0ce10486ba51cc4113c06b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 4c2ace021c72b4b69873240ab903017d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
